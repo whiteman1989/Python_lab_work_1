@@ -1,7 +1,7 @@
 import math
 
-t = 1 # constant 1
-x = 1 # number in group list
+t = float(input("Enter t: "))
+x = float(input("Enter x: "))
 
 # calc function
 def calc(t, x):
@@ -9,4 +9,5 @@ def calc(t, x):
 
 # output
 print("t = 1\nx = 1")
-print("Z = ", calc(t, x))
+z = calc(t, x);
+print("Z = ", "{0:.2f}".format(z))
