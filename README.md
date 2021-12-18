@@ -32,7 +32,7 @@
 ![1-1 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-1.jpg?raw=true)
 
 # Лабораторна робта №1-2
-![Z formula](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/1-1_formula.png?raw=true)
+![Z formula](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/1-2_formula.png?raw=true)
 - Написати програму для розрахунку Z
 - Для введення даних використовуйте команду input, визначивши тип змінних.
   Результат вивести з двома знаками після коми. х - остання цифра у списку групи, t=1. 
