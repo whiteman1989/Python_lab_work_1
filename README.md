@@ -45,3 +45,7 @@
 
 ## Рузультати виконання програми
 ![1-1 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-3.jpg?raw=true)
+
+# Лабораторна робта №1-4
+- Дано три цілих числа. Вибрати з них ті, які належать інтервалу [1,№]. Де №- остання цифра порядкового номеру у списку групи.
+![1-1 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-4.jpg?raw=true)
