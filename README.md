@@ -41,7 +41,7 @@
 
 # Лабораторна робта №1-3
 - Вичисліть значення функції:
-  ![Z formula](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/1-3_formula.png?raw=true) {width="200px"}
+  ![Z formula](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/1-3_formula.png?raw=true)
 
    ## Рузультати виконання програми
    ![1-1 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-3.jpg?raw=true)
