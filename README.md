@@ -44,9 +44,16 @@
 ![Z formula](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/1-3_formula.png?raw=true)
 
 ## Рузультати виконання програми
-![1-1 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-3.jpg?raw=true)
+![1-3 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-3.jpg?raw=true)
 
 # Лабораторна робта №1-4
 - Дано три цілих числа. Вибрати з них ті, які належать інтервалу [1,№]. Де №- остання цифра порядкового номеру у списку групи.
 ## Рузультати виконання програми
-![1-1 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-4.jpg?raw=true)
+![1-4 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-4.jpg?raw=true)
+
+# Лабораторна робта №1-5
+- Дано 3 числа.
+  - [ ] Знайти мінімальне серед них і вивести на екран. (Для №- парного).
+  - [x] Знайти максимальне серед них і вивести на екран. (Для №- непарного).
+## Рузультати виконання програми
+![1-5 result](https://github.com/whiteman1989/Python_lab_work_1/blob/master/images/work_res_1-5.jpg?raw=true)
